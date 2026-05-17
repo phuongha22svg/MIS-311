@@ -1,11 +1,28 @@
 # Used Car Price Analysis (MIS 311 - Assignment #1)
 
 ## Project Overview
-This project is part of the **MIS 311 - Introduction to Business Analytics** course (Assignment #1: Personal Portfolio Site). The primary objective is to analyze a dataset of used cars (`09_Used Car Price`) using Excel to uncover key statistics, understand market trends, and present the findings professionally within a GitHub portfolio repository.
+This project is part of the **MIS 311 - Introduction to Business Analytics** course (Assignment #2: Personal Portfolio Site). The primary objective is to analyze a dataset of used cars (`09_Used Car Price`) using Excel to uncover key statistics, understand market trends, and present the findings professionally.
+
+---
+## 1. Dataset Description
+
+The dataset contains used car listing records collected for price analysis. Each row represents one vehicle listing. The original dataset consisted of **202 rows** and **7 columns**. After data cleaning and preprocessing, the final dataset was prepared for exploratory data analysis and visualization.
+
+The dataset includes the following variables:
+
+- **Model**: Name or model of the vehicle  
+- **Year**: Manufacturing year of the car  
+- **Km/h**: Total distance driven by the vehicle (mileage)  
+- **Color**: Exterior color of the car  
+- **Type**: Transmission type of the vehicle (Automatic or Manual)  
+- **Fuel**: Fuel type used by the vehicle  
+- **Price**: Selling price of the used car  
+
+In this dataset, the **Price** variable represents the selling price of each vehicle and was used as the primary variable for analyzing market trends, vehicle value distribution, and the relationship between mileage, manufacturing year, and car prices.
 
 ---
 
-## 1. Data Cleaning & Preparation
+## 2. Data Cleaning & Preparation
 
 To ensure high data integrity and prevent any biased calculations before conducting the statistical analysis, the dataset was cleaned directly in Excel through the following steps:
 
