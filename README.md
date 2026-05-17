@@ -35,7 +35,7 @@ To ensure high data integrity and prevent any biased calculations before conduct
 
 ---
 
-##  2. Descriptive Statistics
+##  3. Descriptive Statistics
 
 Following the data cleaning process, a comprehensive Descriptive Statistics analysis was performed in Excel on the final sample size of **187 observations**, focusing on three main numerical variables: `Year`, `Km/h` (Mileage), and `Price`.
 
@@ -53,7 +53,7 @@ Following the data cleaning process, a comprehensive Descriptive Statistics anal
 
 ---
 
-## 3. Key Analytical Insights
+## 4. Key Analytical Insights
 
 Based on the scatter plot analysis (2009–2024), here are the main takeaways:
 
@@ -72,7 +72,7 @@ Based on the scatter plot analyzing the relationship between Mileage and Car Pri
 
 ---
 
-##  4. Visualizations
+##  5. Visualizations
 
 To visually investigate the market dynamics, two primary charts were generated to analyze how mileage and manufacturing year heavily influence the final resale price of the vehicles:
 
@@ -84,7 +84,7 @@ To visually investigate the market dynamics, two primary charts were generated t
 
 ---
 
-##  5. Submission Details
+##  6. Submission Details
 * **Name:** Hà Phương
 * **IRN:** 2232300245
 * **Course:** MIS 311 - Introduction to Business Analytics
